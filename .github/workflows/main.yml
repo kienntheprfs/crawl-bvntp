@@ -21,10 +21,8 @@ jobs:
     - name: Install dependencies
       run: |
         pip install crawl4ai  # Cài Crawl4AI
-        pip install playwright  # Browser automation
-        pip install nest_asyncio  # Hỗ trợ asyncio
-        pip install aiohttp PyPDF2 python-docx  # Dependencies mới cho file handling
-        playwright install --with-deps  # Cài browser và dependencies
+        pip install playwright aiohttp PyPDF2 python-docx nest_asyncio cssselect beautifulsoup4 requests pydantic httpx lxml soupsieve
+        playwright install --with-deps  # Cài browser và dependencies hệ thống
 
     - name: Run crawling script
       run: python crawler.py

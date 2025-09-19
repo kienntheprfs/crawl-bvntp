@@ -283,7 +283,7 @@ async def my_crawler_parallel():
         "https://bvnguyentriphuong.com.vn/noi-tong-hop",
         "https://bvnguyentriphuong.com.vn/cap-cuu",
         # "https://bvnguyentriphuong.com.vn/hoi-suc-tich-cuc-chong-doc",
-        "https://bvnguyentriphuong.com.vn/khoa-nhi",
+        # "https://bvnguyentriphuong.com.vn/khoa-nhi",
         "https://bvnguyentriphuong.com.vn/y-hoc-co-truyen",
         # "https://bvnguyentriphuong.com.vn/huyet-hoc-truyen-mau"
     ]

@@ -153,17 +153,17 @@ async def crawl_single_url(crawler, url: str) -> List[str]:  # Sửa return type
                             file_data = await download_file(link_url)
                             if file_data:
                                 file_content = await extract_file_content(file_data, link_url)
-                                print(f"file content: {file_content}\n")
+                                # print(f"file content: {file_content}\n")
                                 # results[-1] += f"\n\n#### Nội dung từ file {link_url}:\n{file_content}"
                                 
                                 # Tìm dòng chứa file url và thêm file content vào ngay sau dòng đó
-                                markdown_content = markdown_content.replace(f"({link_url})", f"({link_url})\n#### Nội dung từ file {link_url}:\n{file_content}")
+                                markdown_content = markdown_content.replace(f"({link_url})", f"({link_url})\n[[[PLACEHOLDER_FILE]]] Nội dung trong file:\n\n{file_content}")
 
                 # Process và lưu ngay vào file
                 markdown_content = re.sub(r'^#+?\s*Mục lục\s*\n', '', markdown_content, flags=re.MULTILINE)
                 markdown_content = re.sub(r'\bMục lục\b', '', markdown_content)
                 with open(fit_file_path, "a", encoding="utf-8") as f:  # Append mode
-                    f.write(f'##{markdown_content}\n')
+                    f.write(f'[[[PLACEHOLDER_HEADING]]]{markdown_content}\n')
                 article_count += 1
 
             page_num += 1
@@ -179,12 +179,12 @@ async def my_crawler_parallel():
     print("\n=== 3. Fit Markdown with LLM Content Filter ===\n")
 
     urls = [
-        # "https://bvnguyentriphuong.com.vn/thong-tin-benh-vien",
-        # "https://bvnguyentriphuong.com.vn/hoat-dong-doan-the",
-        # "https://bvnguyentriphuong.com.vn/thong-tin-khoa-hoc",
-        # "https://bvnguyentriphuong.com.vn/pho-bien-phap-luat",
-        # "https://bvnguyentriphuong.com.vn/van-ban-trien-khai-noi-bo",
-        # "https://bvnguyentriphuong.com.vn/hoat-dong-khen-thuong-tam-guong-trong-bv",
+        "https://bvnguyentriphuong.com.vn/thong-tin-benh-vien",
+        "https://bvnguyentriphuong.com.vn/hoat-dong-doan-the",
+        "https://bvnguyentriphuong.com.vn/thong-tin-khoa-hoc",
+        "https://bvnguyentriphuong.com.vn/pho-bien-phap-luat",
+        "https://bvnguyentriphuong.com.vn/van-ban-trien-khai-noi-bo",
+        "https://bvnguyentriphuong.com.vn/hoat-dong-khen-thuong-tam-guong-trong-bv",
 
 
         "https://bvnguyentriphuong.com.vn/khoa-kham-benh",
@@ -199,13 +199,13 @@ async def my_crawler_parallel():
         "https://bvnguyentriphuong.com.vn/than-loc-mau",
         "https://bvnguyentriphuong.com.vn/co-xuong-khop",
         "https://bvnguyentriphuong.com.vn/noi-ho-hap",
-        # "https://bvnguyentriphuong.com.vn/lao-khoa",
+        "https://bvnguyentriphuong.com.vn/lao-khoa",
         "https://bvnguyentriphuong.com.vn/noi-tong-hop",
         "https://bvnguyentriphuong.com.vn/cap-cuu",
-        # "https://bvnguyentriphuong.com.vn/hoi-suc-tich-cuc-chong-doc",
-        # "https://bvnguyentriphuong.com.vn/khoa-nhi",
+        "https://bvnguyentriphuong.com.vn/hoi-suc-tich-cuc-chong-doc",
+        "https://bvnguyentriphuong.com.vn/khoa-nhi",
         "https://bvnguyentriphuong.com.vn/y-hoc-co-truyen",
-        # "https://bvnguyentriphuong.com.vn/huyet-hoc-truyen-mau",
+        "https://bvnguyentriphuong.com.vn/huyet-hoc-truyen-mau",
 
 
         "https://bvnguyentriphuong.com.vn/ngoai-tong-hop",

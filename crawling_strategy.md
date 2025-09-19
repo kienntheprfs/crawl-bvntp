@@ -33,7 +33,11 @@ Hết ngày 17/9 còn lại
     - cần thiết thì chia nhiều job chạy tránh lỗi hết một lần
     - kiểm tra lỗi syntax ẩn trong script crawler
     - crawl được đến đâu lưu đến đấy, không nên để results[] quá lớn: xử lý lưu file nhiều trang trước khi tràn RAM do một đường link (chủ đề) quả nhiều pagination (>150), mỗi pagination có khoảng 10 bài viết
+    -  tránh truy cập quá nhiều bị chính website rate limit/chặn
     - các vấn đề tiềm ẩn khác trong script crawler có thể xuất hiện (hãy thử suy nghĩ, liệt kê)
+
+Việc của 20/9:
+    Đã custom lại heading thành placeholder, dùng python code merge các file md rồi rename lại heading
 
 
 Đọc docs hiểu được:

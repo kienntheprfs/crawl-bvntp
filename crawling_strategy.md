@@ -19,9 +19,22 @@ Câu hỏi thảo luận thêm:
 Chốt sau khi họp 16/9/2025 => Tạo 2 bản: bản nhiều file nhỏ nhỏ cho Hương, bản lớn 1 file duy nhất cho thầy. Craw cần có đề mục nội dung hoặc la mã đàng hoàng
 
 Hết ngày 17/9 còn lại
-- chưa crawl được ảnh: văn bản quyết định, bảng dạng hình ảnh, các kiểu thông tin/văn bản khác dưới dạng hình ảnh,...và quan trọng hơn là phân biệt được khi nào là ảnh con người không phải văn bản (nói chung là này khó)
+- chưa crawl được ảnh: văn bản quyết định, bảng dạng hình ảnh,phác đồ điều trị, sơ đồ,... các kiểu thông tin/văn bản khác dưới dạng hình ảnh,...và quan trọng hơn là phân biệt được khi nào là ảnh con người không phải văn bản (nói chung là này khó)
 - chưa crawl được file, sau đó nối tiếp vào văn bản bài viết
 - chưa sắp xếp được heading cho hợp lý (này xong nhanh)
+
+đến tối ngày 19/9:
+- crawl được thêm file pdf, docs, md, txt nhưng file pdf bị lỗi chữ đứt đoạn
+-  chưa crawl được chữ trong file hình ảnh
+- đặt markdown heading, hoặc syntax khác,...phù hợp cho từng bài viết tài liệu
+- chưa điều chỉnh tối ưu 
+    - chạy quá nhiều luồng async bị hết tài nguyên/bị chính thư viện rate limit lại
+    - cần đảm bảo cho script chạy được xuyên suốt, có bị dính lỗi cũng bỏ qua mà chạy tiếp được
+    - cần thiết thì chia nhiều job chạy tránh lỗi hết một lần
+    - kiểm tra lỗi syntax ẩn trong script crawler
+    - crawl được đến đâu lưu đến đấy, không nên để results[] quá lớn: xử lý lưu file nhiều trang trước khi tràn RAM do một đường link (chủ đề) quả nhiều pagination (>150), mỗi pagination có khoảng 10 bài viết
+    - các vấn đề tiềm ẩn khác trong script crawler có thể xuất hiện (hãy thử suy nghĩ, liệt kê)
+
 
 Đọc docs hiểu được:
 - crawl có cấu trúc và theo yêu cầu prompt: sử dụng LLM api keykey
@@ -100,11 +113,12 @@ Góc Bệnh Nhân
         Hệ thống thanh toán thẻ
         Phần mềm đặt hẹn
         Tin tức y dược khác
+            <grid các card: mỗi card là link nhỏ hơn>
     Liều thuốc tinh thần
     Kiến thức cho người bệnh
     Tâm lý
 
-Góc Tri Ân
+Góc Tri Ân <Bỏ qua>
     Hoạt động từ thiện
     Thư cám ơn
     Gian hàng yêu thương & hoạt động của mạnh thường quân

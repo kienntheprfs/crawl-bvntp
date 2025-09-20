@@ -1,0 +1,489 @@
+<div class="col-lg-8 col-md-7" bis_skin_checked="1">
+            <h1 class="b mt-30">Khối Nội - Nhi</h1>
+                          <div class="row" bis_skin_checked="1">
+                                                                        <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/noi-tim-mach">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/n%E1%BB%99i%20tim%20m%E1%BA%A1ch.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Nội tim mạch</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/tim-mach-can-thiep">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/tmct.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Tim mạch can thiệp</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/noi-tieu-hoa">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/n%E1%BB%99i%20ti%C3%AAu%20h%C3%B3a.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Nội tiêu hóa</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/noi-tiet">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/n%E1%BB%99i%20ti%E1%BA%BFt.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Nội tiết</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/noi-tam-than-kinh">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/n%E1%BB%99i%20th%E1%BA%A7n%20kinh.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Nội tâm - thần kinh</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/noi-than-tiet-nieu">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/n%E1%BB%99i%20th%E1%BA%ADn.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Nội Thận - Tiết niệu</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/than-loc-mau">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/l%E1%BB%8Dc%20m%C3%A1u.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Lọc máu - Thận</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/co-xuong-khop">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/cxk.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Cơ Xương Khớp</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/noi-ho-hap">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/h%C3%B4%20h%E1%BA%A5p.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Nội hô hấp</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/lao-khoa">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/l%C3%A3o%20khoa.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Lão khoa</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/noi-tong-hop">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/d%C3%B9ng%20chung%20kh%E1%BB%91i%20n%E1%BB%99i.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Nội Tổng hợp</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/cap-cuu">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/c%E1%BA%A5p%20c%E1%BB%A9u.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Cấp cứu</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/hoi-suc-tich-cuc-chong-doc">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/hstc.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Hồi sức tích cực - Chống độc</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/khoa-nhi">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/khoa%20Nhi.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Khoa Nhi</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/y-hoc-co-truyen">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/YHCT.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Y Học cổ truyền</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/huyet-hoc-truyen-mau">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/cac_chuyen_khoa/N%E1%BB%99i_Nhi/huy%E1%BA%BFt%20h%E1%BB%8Dc.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Huyết học - Truyền máu</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                </div>
+                                                                        <div class="ads mt-20 text-center" bis_skin_checked="1">
+                                          <a href="">
+                        <img src="https://bvnguyentriphuong.com.vn/uploads2025/userfiles/0/images/update-banner-970x250px.png" alt="">
+                      </a>
+                                      </div>
+                                        </div>
+
+
+
+<div class="col-lg-8 col-md-7" bis_skin_checked="1">
+            <h1 class="b mt-30">Khối Ngoại - Sản</h1>
+                          <div class="row" bis_skin_checked="1">
+                                                                        <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/ngoai-tong-hop">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/d%C3%B9ng%20chung%20kh%E1%BB%91i%20ngo%E1%BA%A1i.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Ngoại tổng hợp</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/ngoai-tieu-hoa">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/d%C3%B9ng%20chung%20kh%E1%BB%91i%20ngo%E1%BA%A1i.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Ngoại tiêu hóa</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/ngoai-than-kinh">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/ngo%E1%BA%A1i%20th%E1%BA%A7n%20kinh.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Ngoại thần kinh</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/chan-thuong-chinh-hinh">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/CTCH.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Khoa Chấn thương chỉnh hình</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/ngoai-than-tiet-nieu">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/ngo%E1%BA%A1i%20th%E1%BA%ADn.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Ngoại Thận - tiết niệu</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/san-phu-khoa">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/s%E1%BA%A3n%20ph%E1%BB%A5%20khoa.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Sản - Phụ khoa</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/gay-me-hoi-suc">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/GMHS.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Gây mê - Hồi sức</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/ung-buou">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/cac_chuyen_khoa/Ngo%E1%BA%A1i_S%E1%BA%A3n/ung%20b%C6%B0%E1%BB%9Bu.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Ung thư - Ung bướu</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/ngoai-long-nguc-mach-mau">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/cac_chuyen_khoa/Ngo%E1%BA%A1i_S%E1%BA%A3n/l%E1%BB%93ng%20ng%E1%BB%B1c%20tim%20m%E1%BA%A1ch.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Ngoại Lồng ngực - Mạch máu</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                </div>
+                                                                        <div class="ads mt-20 text-center" bis_skin_checked="1">
+                                          <a href="">
+                        <img src="https://bvnguyentriphuong.com.vn/uploads2025/userfiles/0/images/update-banner-970x250px.png" alt="">
+                      </a>
+                                      </div>
+                                        </div>
+
+
+
+
+
+<div class="col-lg-8 col-md-7" bis_skin_checked="1">
+            <h1 class="b mt-30">Chuyên khoa lẻ</h1>
+                          <div class="row" bis_skin_checked="1">
+                                                                        <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/khoa-mat">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/m%E1%BA%AFt.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Khoa Mắt</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/tai-mui-hong">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/TMH.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Tai Mũi Họng</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/rang-ham-mat">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/rhm.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Răng hàm mặt</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/benh-ky-sinh-trung">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/k%C3%BD%20sinh%20tr%C3%B9ng.jpg&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Bệnh ký sinh trùng</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/benh-truyen-nhiem">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/b%E1%BB%87nh%20truy%E1%BB%81n%20nhi%E1%BB%85m.jpg&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Bệnh truyền nhiễm</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/benh-hoc-da">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/b%E1%BB%87nh%20h%E1%BB%8Dc%20da.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Bệnh học da</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/mien-dich-lam-sang">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/mien-dich-lam-sang.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Miễn dịch lâm sàng</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/benh-nghe-nghiep">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/benh%20nghe%20nghiep.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Bệnh nghề nghiệp</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/benh-di-truyen">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/072022/images/th%C6%B0%E1%BB%9Dng%20d%C3%B9ng/b%E1%BB%87nh%20di%20truy%E1%BB%81n.jpg&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Bệnh di truyền</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                </div>
+                                                                        <div class="ads mt-20 text-center" bis_skin_checked="1">
+                                          <a href="">
+                        <img src="https://bvnguyentriphuong.com.vn/uploads2025/userfiles/0/images/update-banner-970x250px.png" alt="">
+                      </a>
+                                      </div>
+                                        </div>
+
+
+
+
+<div class="col-lg-8 col-md-7" bis_skin_checked="1">
+            <h1 class="b mt-30">Cận lâm sàng</h1>
+                          <div class="row" bis_skin_checked="1">
+                                                                        <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/chan-doan-hinh-anh">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/CDHA.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Chẩn đoán hình ảnh</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/xet-nghiem">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/XN.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Xét nghiệm</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/noi-soi">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/noi%20soi.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Nội soi</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/tham-do-chuc-nang">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/tdcn.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Thăm dò chức năng</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/giai-phau-benh">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/gpb.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Giải phẫu bệnh</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/dinh-duong">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/dinh%20d%C6%B0%E1%BB%A1ng.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Khoa Dinh dưỡng</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/kiem-soat-nhiem-khuan">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/ksnk.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Kiểm Soát Nhiễm Khuẩn</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/vat-ly-tri-lieu">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/icon%20chung/vltl.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Vật lý trị liệu</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/y-hoc-du-phong">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/y%20h%E1%BB%8Dc%20d%E1%BB%B1%20ph%C3%B2ng.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Y học dự phòng</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/y-hoc-hat-nhan">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" bis_skin_checked="1" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/082021/images/Trang%20web/y%20h%E1%BB%8Dc%20h%E1%BA%A1t%20nh%C3%A2n.png&quot;);">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Y học hạt nhân</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                </div>
+                                                                        <div class="ads mt-20 text-center" bis_skin_checked="1">
+                                          <a href="">
+                        <img src="https://bvnguyentriphuong.com.vn/uploads2025/userfiles/0/images/update-banner-970x250px.png" alt="">
+                      </a>
+                                      </div>
+                                        </div>
+
+
+
+
+<div class="col-lg-8 col-md-7" bis_skin_checked="1">
+            <h1 class="b mt-30">Tin tức y dược khác</h1>
+                          <div class="row" bis_skin_checked="1">
+                                                                        <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/doanh-nghiep-doi-tac">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/h%E1%BB%A3p%20t%C3%A1c.jpg&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Doanh nghiệp đối tác</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/thong%20tin%20tu%20csyt(1).png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Tin từ các cơ sở y tế</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                                                          <div class="col-lg-4" bis_skin_checked="1">
+                      <a href="https://bvnguyentriphuong.com.vn/tin-tu-doanh-nghiep">
+                        <div class="item mt-30" bis_skin_checked="1">
+                          <div class="bg-img lazy ratio-4-3" style="background-image: url(&quot;https://bvnguyentriphuong.com.vn/uploads/images/tin%20t%E1%BB%AB%20doanh%20nghi%E1%BB%87p/thong%20tin%20tu%20doanh%20nghiep.png&quot;);" bis_skin_checked="1">
+                            <h2 class="text-sm strong ibg-gradient position-absolute w-100 text-white px-15 pb-15 pt-25 title-absolute">Tin từ các doanh nghiệp</h2>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                                                </div>
+                                                                        <div class="ads mt-20 text-center" bis_skin_checked="1">
+                                          <a href="">
+                        <img src="https://bvnguyentriphuong.com.vn/uploads2025/userfiles/0/images/update-banner-970x250px.png" alt="">
+                      </a>
+                                      </div>
+                                        </div>                                                                                

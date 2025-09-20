@@ -33,8 +33,10 @@ Hết ngày 17/9 còn lại
     - cần thiết thì chia nhiều job chạy tránh lỗi hết một lần
     - kiểm tra lỗi syntax ẩn trong script crawler
     - crawl được đến đâu lưu đến đấy, không nên để results[] quá lớn: xử lý lưu file nhiều trang trước khi tràn RAM do một đường link (chủ đề) quả nhiều pagination (>150), mỗi pagination có khoảng 10 bài viết
-    -  tránh truy cập quá nhiều bị chính website rate limit/chặn
+    -  tránh truy cập quá nhiều bị chính website rate limit/chặn => mới có 4 jobs chạy bfs mà lag cả web người ta rồi :< => timeout cũng nên lớn lớn chútt
     - các vấn đề tiềm ẩn khác trong script crawler có thể xuất hiện (hãy thử suy nghĩ, liệt kê)
+    - kiểm tra thật kỹ xem còn thiếu thư viện nào nữa không
+    - đặt thời gian timeout trong script vừa phải, tránh hao minutes của github actions (càng hao hơn nếu chạy nhiều job cùng lúc)
 
 Việc của 20/9:
     Đã custom lại heading thành placeholder, dùng python code merge các file md rồi rename lại heading
@@ -46,7 +48,7 @@ Việc của 20/9:
 
 Thư viện đã dùng
 - crawl4ai
-- datalab-to/marker
+- PyPDF2, docx
 
 
 

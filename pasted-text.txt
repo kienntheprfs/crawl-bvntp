@@ -1,0 +1,131 @@
+<ul class="nav-menu d-flex justify-content-center">
+												<li class="active"><a href="/">Trang Chủ</a>
+											</li>
+									<li><a href="#">Giới thiệu<i class="fas fa-sort-down"></i></a>
+													<ul class="submenu">
+																	<li><a href="https://bvnguyentriphuong.com.vn/gioi-thieu/su-menh-va-tam-nhin">Sứ mệnh - Tầm nhìn</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/gioi-thieu/nang-luc-benh-vien-nguyen-tri-phuong">Năng lực Bệnh viện </a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/gioi-thieu/hinh-thanh-va-phat-trien">Hình thành và phát triển</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/gioi-thieu/co-cau-to-chuc">Cơ cấu tổ chức</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/gioi-thieu/ban-giam-doc">Ban Giám đốc</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/khoi-chuyen-mon">Khối chuyên môn</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/phong-chuc-nang">Phòng Chức Năng</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/pho-bien-phap-luat/chinh-sach-quyen-rieng-tu">Chính sách quyền riêng tư</a>
+																			</li>
+															</ul>
+											</li>
+									<li><a href="#">Thông tin chung<i class="fas fa-sort-down"></i></a>
+													<ul class="submenu">
+																	<li><a href="https://bvnguyentriphuong.com.vn/quy-trinh-kham-benh">Quy trình khám bệnh</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/bang-gia-vien-phi">Bảng giá viện phí</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/hoi-dap">Hỏi đáp</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/lich-kham-benh-dich-vu">Lịch khám bệnh dịch vụ</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/xet-nghiem-tai-nha">Xét nghiệm tại nhà</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/tu-lieu">Tư liệu</a>
+																			</li>
+															</ul>
+											</li>
+									<li><a href="#">Tin tức<i class="fas fa-sort-down"></i></a>
+													<ul class="submenu">
+																	<li><a href="https://bvnguyentriphuong.com.vn/thong-tin-benh-vien">Thông tin bệnh viện</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/hoat-dong-doan-the">Hoạt động Đảng và đoàn thể</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/thong-tin-khoa-hoc">Thông tin khóa học</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/pho-bien-phap-luat">Phổ biến pháp luật</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/van-ban-trien-khai-noi-bo">Văn bản triển khai nội bộ</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/hoat-dong-khen-thuong-tam-guong-trong-bv">Khen thưởng, nêu gương</a>
+																			</li>
+															</ul>
+											</li>
+									<li><a href="#">Góc Y học<i class="fas fa-sort-down"></i></a>
+													<ul class="submenu">
+																	<li><a href="https://bvnguyentriphuong.com.vn/khoa-kham-benh">Khoa Khám bệnh</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/khoi-noi">Khối Nội_Nhi</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/khoi-ngoai">Khối Ngoại_Sản</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/chuyen-khoa-le">Chuyên khoa lẻ</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/can-lam-sang">Cận lâm sàng</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/dieu-duong">Điều dưỡng</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/hoat-dong-duoc">Khoa Dược</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/kham-da-lieu-chuyen-sau">Da liễu chuyên sâu</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/tham-my">Phẫu thuật thẩm mỹ</a>
+																			</li>
+															</ul>
+											</li>
+									<li><a href="#">KHCN<i class="fas fa-sort-down"></i></a>
+													<ul class="submenu">
+																	<li><a href="https://bvnguyentriphuong.com.vn/phac-do-dieu-tri">Phác đồ điều trị</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/tai-lieu-chuyen-mon">Tài liệu chuyên môn</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/quy-trinh-thu-tuc-hanh-chinh">Quy trình thủ tục hành chính</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/nghien-cuu-duoc-dang-tai-tren-tap-chi-quoc-te">Nghiên cứu được đăng tải trên tạp chí quốc tế</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/nghien-cuu-noi-bo-va-dang-tai-tap-chi-trong-nuoc">Nghiên cứu nội bộ và đăng tải tạp chí trong nước</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/nghien-cuu-khoa-hoc-va-thu-nghiem-lam-sang">Nghiên cứu khoa học và Thử nghiệm lâm sàng</a>
+																			</li>
+															</ul>
+											</li>
+									<li><a href="https://bvnguyentriphuong.com.vn/thong-tin-dau-thau">Đấu thầu</a>
+											</li>
+									<li><a href="#">Góc Bệnh Nhân<i class="fas fa-sort-down"></i></a>
+													<ul class="submenu">
+																	<li><a href="https://bvnguyentriphuong.com.vn/cau-lac-bo-benh-nhan">Câu lạc bộ bệnh nhân</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/bac-si-tu-van">Bác sĩ tư vấn</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/danh-sach-video">Video clip y tế</a>
+																			</li>
+																	<li><a href="#">Thông tin &amp; Tiện ích</a>
+																					<ul class="submenu">
+																									<li><a href="https://bvnguyentriphuong.com.vn/he-thong-thanh-toan-the">Hệ thống thanh toán thẻ</a></li>
+																									<li><a href="https://bvnguyentriphuong.com.vn/phan-mem-dat-hen">Phần mềm đặt hẹn</a></li>
+																									<li><a href="https://bvnguyentriphuong.com.vn/tin-tuc-y-duoc-khac">Tin tức y dược khác</a></li>
+																							</ul>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/lieu-thuoc-tinh-than">Liều thuốc tinh thần</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/kien-thuc-cho-nguoi-benh">Kiến thức cho người bệnh</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/tam-ly">Tâm lý</a>
+																			</li>
+															</ul>
+											</li>
+									<li><a href="#">Góc Tri Ân<i class="fas fa-sort-down"></i></a>
+													<ul class="submenu">
+																	<li><a href="https://bvnguyentriphuong.com.vn/hoat-dong-tu-thien">Hoạt động từ thiện</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/thu-cam-on">Thư cám ơn</a>
+																			</li>
+																	<li><a href="https://bvnguyentriphuong.com.vn/gian-hang-yeu-thuong-hoat-dong-cua-manh-thuong-quan">Gian hàng yêu thương &amp; hoạt động của mạnh thường quân</a>
+																			</li>
+															</ul>
+											</li>
+									<li><a href="/lien-he">Liên hệ</a>
+											</li>
+									</ul>

@@ -1,0 +1,37 @@
+name: Crawl with Crawl4AI
+
+on:
+  workflow_dispatch:  # Chỉ chạy khi kích hoạt thủ công
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        batch: [0, 1, 2, 3]  # Chia 4 jobs, mỗi job một batch URLs (~15 mỗi)
+
+    steps:
+    - uses: actions/checkout@v4  # Checkout mã nguồn
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'  # Phù hợp với Crawl4AI
+
+    - name: Install dependencies
+      run: |
+        pip install crawl4ai  # Cài Crawl4AI
+        pip install playwright aiohttp PyPDF2 python-docx nest_asyncio cssselect beautifulsoup4 requests pydantic httpx lxml soupsieve
+        playwright install --with-deps  # Cài browser và dependencies hệ thống
+
+    - name: Run crawling script
+      run: python crawler.py
+      env:
+        BATCH_INDEX: ${{ matrix.batch }}  # Truyền batch index vào script
+        NUM_BATCHES: 4  # Tổng số batches
+
+    - name: Upload crawl results
+      uses: actions/upload-artifact@v4
+      with:
+        name: crawl-outputs-batch-${{ matrix.batch }}  # Artifact riêng cho mỗi batch
+        path: final_bvntp/  # Upload toàn bộ thư mục chứa file .md
